@@ -1,7 +1,9 @@
 ## 🪶
 
 ### 😀 WEB BackEnd
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,figma,nextjs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=spring,java,nestjs,ts)](https://skillicons.dev)  
+<br>  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsj3473)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤨 Algorithm
